@@ -2,7 +2,7 @@
   <a href="https://github.com/miriangomes">
     
    ## Oi, eu sou a Mírian Gomes 👋
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+   
   </a>
 </div>
 
@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/Mv9zSAkI_aAAAAAC/cat-typing.gif" width="400" alt="Gato digitando em um laptop">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12bHg0Y2p2bXp0cDRidXJzNnR6d3g0bmF0OWEzcHVyZzhrb3ZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="400" alt="Gato digitando em um laptop">
 </div>
