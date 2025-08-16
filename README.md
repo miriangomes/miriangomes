@@ -49,8 +49,6 @@
 
 ---
 
-### 👾 Animação Pac-Man da Cobrinha
-
 <div align="center">
   <img src="https://github.com/miriangomes/miriangomes/blob/output/github-contribution-grid-snake-pacman.svg" alt="Animação de contribuições no estilo Pac-Man">
 </div>
