@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12bHg0Y2p2bXp0cDRidXJzNnR6d3g0bmF0OWEzcHVyZzhrb3ZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="400" alt="Gato digitando em um laptop">
+  <img src="https://raw.githubusercontent.com/MaiiD/MaiiD/master/resources/typing-cat.gif" width="400" alt="Gato digitando em um laptop">
 </div>
