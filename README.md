@@ -49,6 +49,3 @@
 
 ---
 
-<div align="center">
-<img src="./aviao.gif" width="400" alt="Animação de um avião">
-</div>
