@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/Mv9zSAkI_aAAAAAC/cat-typing.gif" width="400" alt="Gato digitando em um laptop">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/footer.svg" alt="Animação de rodapé com estatísticas do GitHub">
 </div>
