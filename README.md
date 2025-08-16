@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MaiiD/MaiiD/master/resources/typing-cat.gif" width="400" alt="Gato digitando em um laptop">
+<img src="./robo.gif" width="400" alt="Animação de um robô">
 </div>
