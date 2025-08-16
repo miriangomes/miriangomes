@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/miriangomes">
     
-   ## Oi, eu sou a Mírian Gomes 👋
+   ## Olá!👋
    
   </a>
 </div>
