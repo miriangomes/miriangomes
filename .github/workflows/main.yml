@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda a cada 24 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: miriangomes
+          svg_out_path: dist/github-contribution-grid-snake-pacman.svg
+          # Adicione a linha abaixo para o tema do Pac-Man
+          snake_color: '#FFBF00'
+          grid_color: '#1e2227'
+          bg_color: '#0d1117'
+          # Fim da personalização do tema
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
