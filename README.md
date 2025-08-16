@@ -18,14 +18,13 @@
 
 ### 👩‍💻 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em... `(Ex: um projeto de e-commerce com micro-serviços)`
-- 🌱 Estou sempre aprendendo sobre... `(Ex: Arquitetura de software, novas tecnologias de front-end)`
-- 👯 Procuro colaborar em... `(Ex: projetos open source que utilizem Node.js e React)`
-- 🤔 Estou buscando ajuda com... `(Ex: aprofundar meus conhecimentos em Kubernetes)`
-- 💬 Me pergunte sobre... `(Ex: qualquer coisa relacionada a JavaScript, TypeScript e boas práticas de desenvolvimento)`
-- 📫 Como me encontrar: `(adicione o link do seu LinkedIn ou outra rede social)`
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: `(Ex: Nas horas vagas, adoro jogar jogos de estratégia!)`
+- 🔭 Atualmente estou focada em performance e infraestrutura de uma aplicação SaaS, utilizando conceitos de arquitetura serverless.
+- 🌱 Estou sempre aprendendo sobre Arquitetura de Sistemas Distribuídos, Domain-Driven Design (DDD) e as melhores práticas de observabilidade.
+- 👯 Procuro colaborar em projetos open source que buscam resolver problemas de performance e escalabilidade, especialmente se envolverem TypeScript ou Go.
+- 🤔 Adoraria trocar ideias sobre orquestração de containers com Kubernetes e service mesh.
+- 💬 Me pergunte sobre **Java, Node.js, TypeScript, React** e como construir aplicações que aguentam o tranco!
+- 📫 Me encontre no **[LinkedIn](https://www.linkedin.com/in/mírian-gomes)**.
+- ⚡ Curiosidade: Um bom café e uma playlist focada são meus melhores parceiros de programação!
 
 ---
 
@@ -33,7 +32,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,docker,aws" />
   </a>
 </div>
 
