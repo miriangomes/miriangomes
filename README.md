@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <p>Desenvolvedora focada em construir aplicações web escaláveis e de alta performance. Apaixonada por tecnologia, inovação e por transformar ideias em realidade digital.</p>
+  <p>Desenvolvedora focada em construir aplicações web escaláveis e de alta performance.</p>
 </div>
 
 ---
@@ -19,8 +19,8 @@
 ### 👩‍💻 Sobre Mim
 
 - 🔭 Atualmente estou focada em performance e infraestrutura de uma aplicação SaaS, utilizando conceitos de arquitetura serverless.
-- 🌱 Estou sempre aprendendo sobre Arquitetura de Sistemas Distribuídos, Domain-Driven Design (DDD) e as melhores práticas de observabilidade.
-- 👯 Procuro colaborar em projetos open source que buscam resolver problemas de performance e escalabilidade, especialmente se envolverem TypeScript ou Go.
+- 🌱 Aprendendo sobre Arquitetura de Sistemas Distribuídos, Domain-Driven Design (DDD) e as melhores práticas de observabilidade.
+- 👯 Procuro colaborar em projetos open source que buscam resolver problemas de performance e escalabilidade.
 - 🤔 Adoraria trocar ideias sobre orquestração de containers com Kubernetes e service mesh.
 - 💬 Me pergunte sobre **Java, Node.js, TypeScript, React** e como construir aplicações que aguentam o tranco!
 - 📫 Me encontre no **[LinkedIn](https://www.linkedin.com/in/mírian-gomes)**.
