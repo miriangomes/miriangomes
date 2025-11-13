@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <p>Desenvolvedora Full-Stack (com foco em Back-end) apaixonada por construir aplicações web robustas e escaláveis.</p>
+  <p>Desenvolvedora Full-Stack (com foco em Back-end).</p>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 - 🌱 Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software** e melhores práticas de **Back-end**.
 - 👯 Procuro colaborar em projetos full-stack ou back-end que utilizem **Docker** e **Bancos de Dados SQL**.
 - 🤔 Adoraria trocar ideias sobre **Arquitetura de Software** e melhores práticas de **Docker** e **Git**.
-- 💬 Me pergunte sobre **Java, Node.js, TypeScript, React, Docker, MySQL, SQL Server** e **Supabase**.
+- 💬 Me pergunte sobre **Java, Node.js, TypeScript, React, MySQL** e **Supabase**.
 - 📫 Me encontre no **[LinkedIn](https://www.linkedin.com/in/mirian--gomes)**.
 - ⚡ Curiosidade: Um bom café e uma playlist focada são meus melhores parceiros de programação!
 
