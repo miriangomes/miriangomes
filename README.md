@@ -1,8 +1,6 @@
 <div align="center">
-  <a href="https://github.com/miriangomes">
-    
-   ## Olá!👋
-   
+  <a href="https://github.com/miriangomes">     
+    <h2>Olá!👋</h2> 
   </a>
 </div>
 
@@ -11,19 +9,19 @@
 </div>
 
 <div align="center">
-  <p>Desenvolvedora focada em construir aplicações web escaláveis e de alta performance.</p>
+  <p>Desenvolvedora Full-Stack (com foco em Back-end) apaixonada por construir aplicações web robustas e escaláveis.</p>
 </div>
 
 ---
 
 ### 👩‍💻 Sobre Mim
 
-- 🔭 Atualmente estou focada em performance e infraestrutura de uma aplicação SaaS, utilizando conceitos de arquitetura serverless.
-- 🌱 Aprendendo sobre Arquitetura de Sistemas Distribuídos, Domain-Driven Design (DDD) e as melhores práticas de observabilidade.
-- 👯 Procuro colaborar em projetos open source que buscam resolver problemas de performance e escalabilidade.
-- 🤔 Adoraria trocar ideias sobre orquestração de containers com Kubernetes e service mesh.
-- 💬 Me pergunte sobre **Java, Node.js, TypeScript, React** e como construir aplicações que aguentam o tranco!
-- 📫 Me encontre no **[LinkedIn](https://www.linkedin.com/in/mírian-gomes)**.
+- 🔭 Focada em aplicar as melhores práticas de back-end em projetos **Node.js (TypeScript)** e **Java**.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software** e melhores práticas de **Back-end**.
+- 👯 Procuro colaborar em projetos full-stack ou back-end que utilizem **Docker** e **Bancos de Dados SQL**.
+- 🤔 Adoraria trocar ideias sobre **Arquitetura de Software** e melhores práticas de **Docker** e **Git**.
+- 💬 Me pergunte sobre **Java, Node.js, TypeScript, React, Docker, MySQL, SQL Server** e **Supabase**.
+- 📫 Me encontre no **[LinkedIn](https://www.linkedin.com/in/mirian--gomes)**.
 - ⚡ Curiosidade: Um bom café e uma playlist focada são meus melhores parceiros de programação!
 
 ---
@@ -32,7 +30,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,docker,aws,c,cpp,css,html,figma,photoshop,notion,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,docker,mysql,sqlserver,supabase,linux,git,c,cpp,aws,figma,photoshop,notion,gitlab,html,css" />
   </a>
 </div>
 
@@ -46,6 +44,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriangomes&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
----
-
